@@ -39,9 +39,15 @@ Step 5: When rule ==2, second if-else block gets executed and 'code' is again as
 
 ![image](https://user-images.githubusercontent.com/53274714/142871358-a91ca589-8c33-4c70-857a-e24403de5d6f.png)
 
-    Please note that above encodeMD5 function returns the encoded format in type string. So, to get the format in hexa-decimal, we have called below function.
+    Please note that above encodeMD5 function returns the encoded format in type byte. So, to get the format in hexa-decimal, we have called below function.
     
 ![image](https://user-images.githubusercontent.com/53274714/142871699-c7b37618-6652-4316-9399-c83fa1e62746.png)
+
+Finally, the entire code looks like below:-
+![image](https://user-images.githubusercontent.com/53274714/142905731-790cbf5d-399b-48c5-954a-1f1c71c409a3.png)
+![image](https://user-images.githubusercontent.com/53274714/142905784-dce7643d-7efb-48ef-83c3-cc27f798c6aa.png)
+![image](https://user-images.githubusercontent.com/53274714/142905828-9ef44d8b-400e-474e-a599-95b4ab69715e.png)
+
     
 
 
