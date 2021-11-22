@@ -48,6 +48,11 @@ Finally, the entire code looks like below:-
 ![image](https://user-images.githubusercontent.com/53274714/142905784-dce7643d-7efb-48ef-83c3-cc27f798c6aa.png)
 ![image](https://user-images.githubusercontent.com/53274714/142905828-9ef44d8b-400e-474e-a599-95b4ab69715e.png)
 
+**Sample Outputs**
+
+![image](https://user-images.githubusercontent.com/53274714/142908363-0a7ac99e-0ae2-4170-911a-16097d5d58a7.png)
+![image](https://user-images.githubusercontent.com/53274714/142908430-c7c5846a-ec13-415c-a2ba-2caa79b9e8a5.png)
+
     
 
 
