@@ -6,11 +6,11 @@ Below are the changes along with the explanation:
 
 Step 1: We have declared the following variables:
 
-    code (initialized to 0)
+    short code (initialized to 0)
     
-    rules: This variable makes the first component of our input string
+    String rules: This variable makes the first component of our input string
     
-    msg: This variable makes the second component of our input string
+    String msg: This variable makes the second component of our input string
     
 ![image](https://user-images.githubusercontent.com/53274714/142869705-64b1173c-4a77-404b-b301-dc1add61cf8c.png)
     
